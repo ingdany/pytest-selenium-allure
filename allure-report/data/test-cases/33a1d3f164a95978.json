@@ -1,0 +1,112 @@
+{
+  "uid" : "33a1d3f164a95978",
+  "name" : "test_case_3",
+  "fullName" : "test.MyTestCase#test_case_3",
+  "historyId" : "69a416f7eae01ad7532adf2fb5de6bf1",
+  "time" : {
+    "start" : 1596513517496,
+    "stop" : 1596513520454,
+    "duration" : 2958
+  },
+  "description" : "Dates",
+  "descriptionHtml" : "<p>Dates</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1596513473286,
+      "stop" : 1596513502374,
+      "duration" : 29088
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Dates",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "126cc975257dcf8a",
+      "name" : "stdout",
+      "source" : "126cc975257dcf8a.txt",
+      "type" : "text/plain",
+      "size" : 16
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1596513523509,
+      "stop" : 1596513526692,
+      "duration" : 3183
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "NORMAL"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "MyTestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-6IKA79J"
+  }, {
+    "name" : "thread",
+    "value" : "2544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "369bc4bdc77aeb5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596511136825,
+        "stop" : 1596511138528,
+        "duration" : 1703
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33a1d3f164a95978.json",
+  "parameterValues" : [ ]
+}

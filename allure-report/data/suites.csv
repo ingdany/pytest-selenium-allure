@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","test.MyTestCase#test_case_1","13683","Login to Agile Travel"
+"passed","test.MyTestCase#test_case_4","3041","Passenger Details"
+"passed","test.MyTestCase#test_case_2","950","Origin and Destination"
+"passed","test.MyTestCase#test_case_3","2958","Dates"

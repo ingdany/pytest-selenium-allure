@@ -1,0 +1,82 @@
+{
+  "a778412a2166667325d57f79612cef77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69d75a6947937f90",
+      "reportUrl" : "http://localhost:8080/job/python-selenium-test/19/allure/#testresult/69d75a6947937f90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596513516313,
+        "stop" : 1596513517263,
+        "duration" : 950
+      }
+    } ]
+  },
+  "69a416f7eae01ad7532adf2fb5de6bf1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33a1d3f164a95978",
+      "reportUrl" : "http://localhost:8080/job/python-selenium-test/19/allure/#testresult/33a1d3f164a95978",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596513517496,
+        "stop" : 1596513520454,
+        "duration" : 2958
+      }
+    } ]
+  },
+  "1c0314969121a0c961ff2553c220f255" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ce4cc24700f4a05",
+      "reportUrl" : "http://localhost:8080/job/python-selenium-test/19/allure/#testresult/3ce4cc24700f4a05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596513520464,
+        "stop" : 1596513523505,
+        "duration" : 3041
+      }
+    } ]
+  },
+  "796c4532271e7f2a99c1919217463f22" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e179e8a656c1b3",
+      "reportUrl" : "http://localhost:8080/job/python-selenium-test/19/allure/#testresult/5e179e8a656c1b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596513502425,
+        "stop" : 1596513516108,
+        "duration" : 13683
+      }
+    } ]
+  }
+}
